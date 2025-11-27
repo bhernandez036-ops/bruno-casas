@@ -1,0 +1,34 @@
+body{
+  background-color:#E8A1E3;
+  }
+
+h1, p{
+  text-align:center;
+  colo:#CD32C3;
+}
+
+.container{
+  display: flex;
+  background-color: grey;
+  width: 1050px;
+  margin:20px auto;
+}
+
+.container div{
+  background-color:#98F7FA;
+  margin: 41px;
+  padding: 15px;
+  font-size: 24px;
+  content:center;
+}
+
+footer {
+  background-color:purple;
+  color:pink;
+}
+
+.social a{
+  color:white;
+  margin: 0 1rem;
+  font-size:1.2rem;
+}
