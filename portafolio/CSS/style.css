@@ -1,0 +1,81 @@
+/* Main container */
+body {
+  max-width: 1300px;
+}
+
+/* First Grid: Logo & About */
+.logo-section {
+  height: 700px;
+}
+
+.logo-section-left {
+  height: 700px;
+}
+
+.logo-section-right {
+  height: 700px;
+}
+
+/* Second Grid: Work & Resume */
+.work-section {
+  min-height: 800px;
+}
+
+.resume-section {
+  min-height: 800px;
+}
+
+/* Third Grid: Swing By & Contact */
+.contact-left {
+  height: 700px;
+}
+
+.contact-right {
+  height: 700px;
+}
+
+/* Images */
+.logo-img {
+  width: 50%;
+}
+
+.work-img {
+  width: 100%;
+}
+
+.input-full {
+  width: 100%;
+}
+
+/* Footer */
+footer {
+  margin-top: auto;
+}
+
+/* Form Styles */
+.input-form {
+  width: 100%;
+}
+.w3-black {
+  background-color: #b30000 !important;  
+}
+
+.w3-blue-grey {
+  background-color: #000000 !important; 
+}
+
+.w3-light-grey {
+  background-color: #e8e8e8 !important; 
+}
+
+.w3-indigo {
+  background-color: #3f51b5 !important; 
+}
+
+.w3-dark-grey {
+  background-color: #303030 !important; 
+}
+
+.w3-teal {
+  background-color: #7c00c9 !important; 
+}
